@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const DESTINOS_API_BASE_URL = "https://fstackteste.herokuapp.com/api/v1/destinos";
+const DESTINOS_API_BASE_URL = "http://localhost:8080/api/v1/destinos";
 
 class DestinosService {
 
