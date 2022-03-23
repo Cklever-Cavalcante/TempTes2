@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const PACOTES_API_BASE_URL = "http://localhost:8080/api/v1/pacotes";
+const PACOTES_API_BASE_URL = "https://fstackteste.herokuapp.com/api/v1/pacotes";
 
 class PacotesService {
 
